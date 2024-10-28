@@ -69,3 +69,5 @@ plt.show()
 
 # Resultados
 Os gráficos e mapas gerados ajudam a visualizar a distribuição dos acidentes em Porto Alegre, identificando áreas com maior frequência de incidentes e permitindo uma análise mais aprofundada das tendências ao longo dos anos.
+
+
